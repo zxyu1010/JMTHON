@@ -41,7 +41,7 @@
     },
     "COUNTRY": {
       "description": "Set your Country to be used in the !time and !date commands.",
-      "value": "India",
+      "value": "Iraq",
       "required": false
     },
     "TZ_NUMBER": {
@@ -107,7 +107,7 @@
     },
     "PM_PROTECTOR": {
       "description": "Prevent unknown people to spam your pm , type !allow to allow them to pm",
-      "value": "true",
+      "value": "false",
       "required": false
     },
     "YOUTUBE_API_KEY": {
